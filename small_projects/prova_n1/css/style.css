@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: brown;
+
+}
+main {
+    height: 90vh;
+}
+
+input {
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    height: 50px;
+    border-radius: 10px;
+    width: 400px;
+}
