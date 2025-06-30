@@ -1,3 +1,6 @@
 [submodule "dicex"]
 	path = dicex
 	url = https://github.com/davisantx/dicex
+[submodule "pearbook"]
+	path = pearbook
+	url = https://github.com/davisantx/pearbook
