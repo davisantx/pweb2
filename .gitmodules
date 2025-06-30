@@ -1,0 +1,3 @@
+[submodule "dicex"]
+	path = dicex
+	url = https://github.com/davisantx/dicex
